@@ -9,8 +9,7 @@ Aliaksandr Drankou (xdrank00@fit.vutbr.cz)
 
 ### Description
 Tato aplikace umoznuje vytvaret/upravovat/mazat ulohy a taky poskytuje podobu "Pomodoro" timeru pro lepsi time management a soustredeni pri praci. Kazda uloha ma svuj nazev, popis, datum deadlinu a prioritu. Jednotlive ulohy jsou tridene podle casu vytvoreni a stavu splneni.
-Inspiraci pro design a logiku slouzila aplikace "Focus". (https://apps.apple.com/us/app/focus-time-management/id975017240)
-Moje aplikace je snahou o reimplementaci danej apky.
+Inspiraci pro design a logiku slouzila aplikace "Focus" (https://apps.apple.com/us/app/focus-time-management/id975017240).
 
 ### TODO
 - Filtrovani podle priority
